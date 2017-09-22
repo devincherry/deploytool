@@ -1,0 +1,5 @@
+boto3==1.4.1
+Fabric==1.13.1
+PyYAML==3.12
+requests==2.11.1
+pylint==1.6.5
